@@ -17,18 +17,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/NewDrone.jpg" alt="Autonomous drone platform" width="420" />
+  <img src="assets/NewDrone-cropped.jpg" alt="Autonomous drone platform" width="360" />
 </p>
 
 I work across C++, Python, TypeScript, robotics, edge ML, developer infrastructure, and systems that connect software to real-world hardware.
 
 ## Featured Engineering Work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>Anchor Dynamics - Autonomous Drone Runtime</h3>
+### Anchor Dynamics - Autonomous Drone Runtime
 
 Offline-first autonomous drone platform for search and rescue, built with Jetson Orin, MAVSDK, FastAPI, WebSockets, YOLO, ONNX/TensorRT, React, and Tauri.
 Backed by Simon Fraser University's Charles Chang Institute for Entrepreneurship.
@@ -37,16 +33,9 @@ Backed by Simon Fraser University's Charles Chang Institute for Entrepreneurship
 
 <a href="https://quinntphillips.github.io/anchor/">Technical Writeup -&gt;</a>
 
-  </td>
-    <td width="50%" valign="top">
-
-<h3>Microsoft - Cross-Platform Game Infrastructure</h3>
+### Microsoft - Cross-Platform Game Infrastructure
 
 C++ infrastructure for Unreal Engine game systems across Xbox, PlayStation, Windows, and Steam with millions of players.
-
-  </td>
-  </tr>
-</table>
 
 ## Technical Skills
 
