@@ -16,20 +16,27 @@
   <a href="https://linkedin.com/in/quinntphillips/">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="assets/NewDrone-cropped.jpg" alt="Autonomous drone platform" width="360" />
-</p>
-
-I work across C++, Python, TypeScript, robotics, edge ML, developer infrastructure, and systems that connect software to real-world hardware.
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/NewDrone-cropped.jpg" alt="Autonomous drone platform" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/detect-people-framed.png" alt="Thermal detection and mission planning interface" width="100%" />
+    </td>
+  </tr>
+</table>
+ 
+I work with C++, Python, TypeScript, robotics, edge ML, developer infrastructure, and systems that connect software to real-world hardware.
 
 ## Featured Engineering Work
 
 ### Anchor Dynamics - Autonomous Drone Runtime
 
-Offline-first autonomous drone platform for search and rescue, built with Jetson Orin, MAVSDK, FastAPI, WebSockets, YOLO, ONNX/TensorRT, React, and Tauri.
+Offline-first autonomous drone platform for search and rescue, built with Nvidia Jetson Orin Nano, MAVSDK, FastAPI, WebSockets, YOLO, ONNX/TensorRT, React, and Tauri.
 Backed by Simon Fraser University's Charles Chang Institute for Entrepreneurship.
 
-<strong>Built:</strong> onboard runtime, telemetry streaming, mission commands, thermal detection alerts, operator workflow and ML inference pipeline.
+<strong>Built:</strong> onboard runtime, autonomy logic, telemetry streaming, mission commands, thermal detection alerts, operator workflow and ML inference pipeline.
 
 <a href="https://quinntphillips.github.io/anchor/">Technical Writeup -&gt;</a>
 
@@ -40,8 +47,8 @@ C++ infrastructure for Unreal Engine game systems across Xbox, PlayStation, Wind
 ## Technical Skills
 
 - **Languages:** C++, Python, TypeScript, Java, Rust
-- **Robotics / Edge ML:** Embedded Linux, MAVSDK, PX4, YOLO, ONNX, TensorRT
-- **Frontend / Desktop:** React, Tauri
+- **Robotics / Edge ML:** Embedded Linux, MAVSDK, PX4, YOLO, ONNX, TensorRT, PyTorch
+- **Frontend / Desktop:** React, Tauri, Unreal Engine
 - **Backend / Infrastructure:** Django, FastAPI, PostgreSQL, WebSockets, Azure
 
 ## Links
