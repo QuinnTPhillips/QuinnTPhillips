@@ -46,10 +46,11 @@ C++ infrastructure for Unreal Engine game systems across Xbox, PlayStation, Wind
 
 ## Technical Skills
 
-- **Languages:** C++, Python, TypeScript, Java, Rust
-- **Robotics / Edge ML:** Embedded Linux, MAVSDK, PX4, YOLO, ONNX, TensorRT, PyTorch
-- **Frontend / Desktop:** React, Tauri, Unreal Engine
-- **Backend / Infrastructure:** Django, FastAPI, PostgreSQL, WebSockets, Azure
+- **Languages:** C++, Python, TypeScript, JavaScript, Java, C, SQL, Rust 
+- **Robotics / Edge ML:** Embedded Linux, NVIDIA Jetson, MAVSDK, PX4, OpenCV, YOLO, PyTorch, ONNX, TensorRT 
+- **Frontend / Desktop:** React, Tauri
+- **Backend / Infrastructure:** Django, FastAPI, Express, PostgreSQL, Redis, WebSockets, REST APIs 
+- **Cloud / AI:** Azure, Azure Functions, Azure AI Search, Supabase, RAG, vector indexing
 
 ## Links
 
