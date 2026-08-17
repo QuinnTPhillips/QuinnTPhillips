@@ -3,7 +3,7 @@
 <p align="center">
   <strong>CS @ UBC</strong>
   &middot;
-  <strong>SWE Intern @ Microsoft</strong>
+  <strong>SWE Intern @ Tesla</strong>
   &middot;
   Building autonomous drone systems
 </p>
