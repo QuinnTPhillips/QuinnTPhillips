@@ -40,6 +40,9 @@ Backed by Simon Fraser University's Charles Chang Institute for Entrepreneurship
 
 <a href="https://quinntphillips.github.io/anchor/">Technical Writeup -&gt;</a>
 
+### Tesla - Embedded Linux Rust Messaging
+Rust messaging infrastructure coordinating multi-device commands for Tesla Wall Connector residential charging systems.
+
 ### Microsoft - Cross-Platform Game Infrastructure
 
 C++ infrastructure for Unreal Engine game systems across Xbox, PlayStation, Windows, and Steam, supporting millions of players.
